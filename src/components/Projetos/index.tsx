@@ -22,11 +22,11 @@ function Projetos() {
             <br></br>
             <Barricade size={32} />
           </h3>
-          <h3>
+          {/* <h3>
             Avançado
             <br></br>
             <Barricade size={32} />
-          </h3>
+          </h3> */}
         </div>
       </section>
     )
