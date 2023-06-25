@@ -7,10 +7,10 @@ function Nav() {
         <nav>
             <div className="nav-container">
                 <div className="nav-center">
-                    <NavLink className="links-nav" to={'/'}>Home</NavLink>
-                    <NavLink className="links-nav"  to={'/'}>Projetos</NavLink>
-                    <NavLink className="links-nav"  to={'/'}>Sobre</NavLink>
-                    <NavLink className="links-nav"  to={'/'}>Contato</NavLink>
+                    <NavLink className="links-nav" to={'/DB-Games'}>Home</NavLink>
+                    <NavLink className="links-nav"  to={'/DB-Games'}>Projetos</NavLink>
+                    <NavLink className="links-nav"  to={'/DB-Games'}>Sobre</NavLink>
+                    <NavLink className="links-nav"  to={'/DB-Games'}>Contato</NavLink>
                 </div>
             </div>
         </nav>
