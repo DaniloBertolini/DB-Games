@@ -21,8 +21,8 @@ function Projetos() {
             </a>
           </div>
           <div className="projetosImg">
-          <h3>
-              Jogo da Velha
+            <h3>
+              Timer
             </h3>
             <a href="https://danilobertolini.github.io/Timer/">
               <img src="./timer.png" alt="timer" />
