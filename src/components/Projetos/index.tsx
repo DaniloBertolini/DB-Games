@@ -21,10 +21,12 @@ function Projetos() {
             </a>
           </div>
           <div className="projetosImg">
-            <h3>
-              Construção
-              <Barricade size={32} />
+          <h3>
+              Jogo da Velha
             </h3>
+            <a href="https://danilobertolini.github.io/Timer/">
+              <img src="./timer.png" alt="timer" />
+            </a>
           </div>
           <div className="projetosImg">
             <h3>
