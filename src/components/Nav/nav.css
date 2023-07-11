@@ -49,3 +49,15 @@
         width: 80%;
     }
 }
+
+@media (max-width: 500px) {
+    .links-nav {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 350px) {
+    .links-nav {
+        font-size: 10px;
+    }
+}

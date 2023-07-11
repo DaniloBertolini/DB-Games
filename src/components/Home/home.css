@@ -37,3 +37,15 @@
 @media (max-width: 877px) {
 
 }
+
+@media (max-width: 500px) {
+    .home > h2 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 350px) {
+    .home > h2 {
+        font-size: 1rem;
+    }
+}
